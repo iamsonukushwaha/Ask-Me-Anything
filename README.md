@@ -1,4 +1,4 @@
-**Ask Me Anything (almost)**
+**Ask Me Anything **
 
 If you have a question, make an issue for it. 
 
